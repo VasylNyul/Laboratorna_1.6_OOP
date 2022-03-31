@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Source.cpp(10,19): error C2248: Vector3D::Triad: невозможно обратиться к private class, объявленному в классе "Vector3D"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Vector3D.h(12): message : см. объявление "Vector3D::Triad"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Vector3D.h(9): message : см. объявление "Vector3D"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Source.cpp(10,22): error C2248: Vector3D::Triad: невозможно обратиться к private class, объявленному в классе "Vector3D"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Vector3D.h(12): message : см. объявление "Vector3D::Triad"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Vector3D.h(9): message : см. объявление "Vector3D"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Source.cpp(10,25): error C2248: Vector3D::Triad: невозможно обратиться к private class, объявленному в классе "Vector3D"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Vector3D.h(12): message : см. объявление "Vector3D::Triad"
+C:\Users\apple\source\repos\oop_laba_1.6\oop_laba_1.6\Vector3D.h(9): message : см. объявление "Vector3D"
+  Vector3D.cpp
+  Создание кода...
